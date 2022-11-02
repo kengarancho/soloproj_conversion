@@ -1,0 +1,16 @@
+
+.input {
+    margin: auto;
+    background: #6943FF;
+    width: 550px;
+    height: 285px;
+    text-align: center;
+}
+
+.result {
+    margin: auto;
+    width: 550px;
+    height: 730px;
+    background: #1F2937;
+
+}
